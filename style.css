@@ -1,0 +1,112 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.container {
+    text-align: center;
+    margin: 50px;
+   
+    
+}
+.menu-one {
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+.menu-one__links {
+  text-align: center;
+  padding-bottom: 20px;
+
+}
+
+.menu-one__links a {
+  text-decoration: none;
+  color: white;  
+  font-weight: bold;
+}
+
+.menu-one__links a:hover {
+  color: yellow;  
+}
+.menu-two {
+  border: solid black 3px;
+  display: inline-block;
+}
+.menu-three {
+  border: solid black 3px;
+   display: inline-block;
+
+}
+.menu-four {
+  border: solid black 3px;
+   display: inline-block;
+}
+.menu-five {
+  border: solid black 3px;
+   display: inline-block;
+}
+.menu-three__image {
+  width: 230px;
+  height: 300px;
+}
+.menu-two__image {
+  width: 230px;
+  height: 300px;
+}
+.menu-four__image {
+  width: 230px;
+  height: 300px;
+}
+.menu-five__image {
+  width: 230px;
+  height: 300px;
+}
+.menu-two__button {
+  background-color: black;
+  color: white;
+}
+.menu-two__button:hover {
+  color: yellow;
+}
+.menu-three__button {
+  background-color: black;
+  color: white;
+}
+.menu-three__button:hover {
+  color: yellow;
+}
+.menu-four__button {
+  background-color: black;
+  color: white;
+}
+.menu-four__button:hover {
+  color: yellow;
+}
+.menu-five__button {
+  background-color: black;
+  color: white;
+}
+.menu-five__button:hover {
+  color: yellow;
+}
+form {
+  background-color: black;
+  color: white; 
+  margin-top: 10px;
+}
+form button {
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-bottom: 10px;
+  background-color: yellowgreen;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  margin-top: 2px;
+}
+form button:hover {
+  background-color: skyblue;
+}
+
+
+
+
